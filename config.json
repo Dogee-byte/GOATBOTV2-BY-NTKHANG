@@ -17,8 +17,8 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100053549552408",
-    "61557118090040"
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
@@ -41,10 +41,10 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "cliffbotbeluga@gmail.com",
-      "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
-      "clientSecret": "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",
-      "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
+      "email": "kanogbanag@gmail.com",
+      "clientId": "536967220157-f7qe9jnj573ejda6rtda34kdifea6hf1.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04ckUKioeZbgGCgYIARAAGAQSNwF-L9IrcfEl5d_jfk_M462LvcstsN7sq43mavvSeUZgvqiZcm-4S3Y-xUrrjq8gNlvuqTlLdfE",
       "apiKey": ""
     },
     "gRecaptcha": {
