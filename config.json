@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "",
+    "100072704678200",
     ""
   ],
   "whiteListMode": {
@@ -29,7 +29,7 @@
   "AGE": "19",
   "GENDER": "MALE",
   "nickNameBot": "Itachi×",
-  "FACEBOOK": "",
+  "FACEBOOK": "https://www.facebook.com/profile.php?id=100072704678200",
   "prefix": "/",
   "database": {
     "type": "sqlite",
